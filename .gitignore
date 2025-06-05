@@ -1,0 +1,39 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# VS / Rider / JetBrains
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash logs
+sysinfo.txt
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# ARToolKit build artifacts
+Packages/com.artoolkitx.*
+
+# Rider project settings
+.idea/
